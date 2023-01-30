@@ -1,6 +1,7 @@
 {
   "name": "crypto-app",
   "version": "0.1.0",
+  "homepage": "https://midhlaj-nk.github.io/Bitcoin-react",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.10.5",
